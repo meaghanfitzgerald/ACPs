@@ -136,7 +136,7 @@ _You can view the status of each ACP on the [ACP Tracker](https://github.com/org
 |[236](ACPs/236-continuous-staking/README.md)|Continuous Staking|Razvan Angheluta ([@rrazvan1](https://github.com/rrazvan1))|Standards|
 |[247](ACPs/247-delegation-multiplier-increase-maximum-validator-weight-reduction/README.md)|Delegation Multiplier Increase & Maximum Validator Weight Reduction|Giacomo Barbieri ([@ijaack94](https://x.com/ijaack94)), BENQI ([@benqifinance](https://x.com/benqifinance))|Standards|
 |[256](ACPs/256-hardware-recommendations/README.md)|Update Hardware Requirements for Primary Network Nodes|Aaron Buchwald ([@aaronbuchwald](https://github.com/aaronbuchwald)), Martin Eckardt ([@martineckardt](https://github.com/martineckardt)), Meaghan FitzGerald ([@meaghanfitzgerald](https://github.com/meaghanfitzgerald))|Best Practices|
-|[267](ACPs/267-uptime-requirement-increase/README.md)|Increase Validator Uptime Requirement from 80% to 90%|Martin Eckardt ([@martineckardt](https://github.com/martineckardt))|Standards|
+|[267](ACPs/267-uptime-requirement-increase/README.md)|Increase Validator Uptime Requirement from 80% to 90%|Martin Eckardt ([@martineckardt](https://github.com/martineckardt))|Best Practices|
 
 ## Contributing
 
