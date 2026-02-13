@@ -13,7 +13,7 @@ This proposal reduces the minimum validator staking period on Avalanche's Primar
 
 ### Current State
 
-The Avalanche Primary Network currently requires validators to stake for a minimum of 2 weeks (336 hours) to be eligible for staking rewards. While this ensures validator commitment to network security, it creates friction for participants who require more flexible liquidity access.
+The Avalanche Primary Network currently requires validators and delegators to stake for a minimum of 2 weeks (336 hours) to be eligible for staking rewards. While this ensures validator commitment to network security, it creates friction for participants who require more flexible liquidity access.
 
 ### Benefits of a Shorter Minimum Period
 
