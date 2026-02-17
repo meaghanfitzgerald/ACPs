@@ -2,7 +2,7 @@
 | :--- | :--- |
 | **Title** | Reduce Minimum Validator Staking Period to 24 Hours |
 | **Author(s)** | Meaghan FitzGerald ([@meaghanfitzgerald](https://github.com/meaghanfitzgerald)) |
-| **Status** | Proposed |
+| **Status** | Proposed ([Discussion](https://github.com/avalanche-foundation/ACPs/discussions/274))|
 | **Track** | Standards |
 
 ## Abstract
