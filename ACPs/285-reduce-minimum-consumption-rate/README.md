@@ -1,8 +1,8 @@
-| ACP | 284 |
+| ACP | 285 |
 | :--- | :--- |
 | **Title** | Reduce Minimum Consumption Rate |
 | **Author(s)** | Martin Eckardt ([@martineckardt](https://github.com/martineckardt)), Meaghan FitzGerald ([@meaghanfitzgerald](https://github.com/meaghanfitzgerald)), Eric Lu ([@ericlu-avax](https://github.com/ericlu-avax)) |
-| **Status** | Proposed ([Discussion](https://github.com/avalanche-foundation/ACPs/discussions/XXX)) |
+| **Status** | Proposed ([Discussion](https://github.com/avalanche-foundation/ACPs/discussions/285)) |
 | **Track** | Standards |
 
 ## Abstract
