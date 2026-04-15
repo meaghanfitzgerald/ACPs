@@ -63,13 +63,13 @@ This is a structural limitation of the current model: the security budget is fin
 
 Reducing `MinConsumptionRate` from 10% to 7.5% produces the following APY schedule:
 
-| Duration | APY (MinRate = 7.5%) | Compounding APY (MinRate) = 7.5% |
-|----------|----------------------|----------------------------------|
-| 2 days   | 4.00%                | 4.08%                            |
-| 14 days  | 4.08%                | 4.16%                            |
-| 90 days  | 4.58%                | 4.65%                            |
-| 182 days | 5.18%                | 5.25%                            |
-| 365 days | 6.38%                | 6.38%                            |
+| Duration | Current APR (MinRate = 10%) | APR (MinRate = 7.5%) | Compounding APY (MinRate) = 7.5% |
+| -------- | --------------------------- | -------------------- | -------------------------------- |
+| 2 days   | -                           | 4.00%                | 4.08%                            |
+| 14 days  | 5.36%                       | 4.08%                | 4.16%                            |
+| 90 days  | 5.58%                       | 4.58%                | 4.65%                            |
+| 182 days | 5.85%                       | 5.18%                | 5.25%                            |
+| 365 days | 6.38%                       | 6.38%                | 6.38%                            |
 
 > All values calculated using live reward formula with current circulating supply of 470,134,316 AVAX and supply cap of 720,000,000 AVAX. Compound APY assumes the user utilizes ACP-236 auto-renewal for 365 days.
 
